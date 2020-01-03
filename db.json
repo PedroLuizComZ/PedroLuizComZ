@@ -16,17 +16,16 @@
     },
    { 
       	"id": 2,
-      	"title": "Post 2",
-	"nomeusuario": "Nome2",
-	"nomecliente": "Nome2",
-   	"logocliente":"String",
-	"nmlogocliente":"String",
-	"tituloboasvindas": "String",
-	"textoboasvindas":"String",
-	"corbtnaprovar":"String",
-	"corbtprecusar": "String",
-	"corbtnparecer": "String",
-	"corsecundaria": "String"
+      	"nomeusuario": "Wel",
+	"nomecliente": "Wel",
+	"logocliente":"logo.png",
+	"nmlogocliente":"logo.png",
+	"tituloboasvindas": "Seja Bem vindo 2",
+	"textoboasvindas":"Agora ficou muito fácil aprovar os contratos",
+	"corbtnaprovar":"#d3fc03",
+	"corbtprecusar": "#d3fc03",
+	"corbtnparecer": "#03fc28",
+	"corsecundaria": "#03f8fc"
     }
   ]
 }
