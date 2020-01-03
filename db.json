@@ -4,8 +4,14 @@
     { 
       	"id": 1,
       	"title": "Post 1",
-	"nomeusuario":"String",
-	"nomecliente":"String"
+	"nomeusuario": "Nome1",
+	"nomecliente": "Nome1"
+    },
+   { 
+      	"id": 2,
+      	"title": "Post 2",
+	"nomeusuario": "Nome2",
+	"nomecliente": "Nome2"
     }
   ],
   "comments": [
