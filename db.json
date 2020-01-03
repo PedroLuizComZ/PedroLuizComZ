@@ -1,23 +1,16 @@
-{   
-    "posts": [
-        {
-            "nomeusuario":"String",
-            "nomecliente":"String",
-            "customizacao":[
-                {
-                "logocliente":"String",
-                "nmlogocliente":"String",
-                "tituloboasvindas": "String",
-                "textoboasvindas":"String",
-                "corbtnaprovar":"String",
-                "corbtprecusar": "String",
-                "corbtnparecer": "String",
-                "corsecundaria": "String"
-                }
-            ]
+{  
+    "nomeusuario":"String",
+    "nomecliente":"String",
+    "customizacao":[  
+        {  
+           "logocliente":"String",
+           "nmlogocliente":"String",
+           "tituloboasvindas":"String",
+           "textoboasvindas":"String",
+           "corbtnaprovar":"String",
+           "corbtprecusar":"String",
+           "corbtnparecer":"String",
+           "corsecundaria":"String"
         }
     ]
-}   
-
-
-
+}
