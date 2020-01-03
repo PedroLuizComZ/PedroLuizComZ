@@ -5,13 +5,29 @@
       	"id": 1,
       	"title": "Post 1",
 	"nomeusuario": "Nome1",
-	"nomecliente": "Nome1"
+	"nomecliente": "Nome1",
+	"logocliente":"String",
+	"nmlogocliente":"String",
+	"tituloboasvindas": "String",
+	"textoboasvindas":"String",
+	"corbtnaprovar":"String"
+	"corbtprecusar": "String",
+	"corbtnparecer": "String",
+	"corsecundaria": "String"
     },
    { 
       	"id": 2,
       	"title": "Post 2",
 	"nomeusuario": "Nome2",
-	"nomecliente": "Nome2"
+	"nomecliente": "Nome2",
+   	"logocliente":"String",
+	"nmlogocliente":"String",
+	"tituloboasvindas": "String",
+	"textoboasvindas":"String",
+	"corbtnaprovar":"String"
+	"corbtprecusar": "String",
+	"corbtnparecer": "String",
+	"corsecundaria": "String"
     }
   ],
   "comments": [
