@@ -10,7 +10,7 @@
 	"nmlogocliente":"String",
 	"tituloboasvindas": "String",
 	"textoboasvindas":"String",
-	"corbtnaprovar":"String"
+	"corbtnaprovar":"String",
 	"corbtprecusar": "String",
 	"corbtnparecer": "String",
 	"corsecundaria": "String"
@@ -24,7 +24,7 @@
 	"nmlogocliente":"String",
 	"tituloboasvindas": "String",
 	"textoboasvindas":"String",
-	"corbtnaprovar":"String"
+	"corbtnaprovar":"String",
 	"corbtprecusar": "String",
 	"corbtnparecer": "String",
 	"corsecundaria": "String"
