@@ -22,10 +22,10 @@
 	"nmlogocliente":"logo.png",
 	"tituloboasvindas": "Seja Bem vindo 2",
 	"textoboasvindas":"Agora ficou muito fácil aprovar os contratos",
-	"corbtnaprovar":"#d3fc03",
-	"corbtprecusar": "#d3fc03",
-	"corbtnparecer": "#03fc28",
-	"corsecundaria": "#03f8fc"
+	"corbtnaprovar":"#006400",
+	"corbtprecusar": "#d21919",
+	"corbtnparecer": "#ffff40",
+	"corsecundaria": "#ffff40"
     }
   ]
 }
