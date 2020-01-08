@@ -27,5 +27,15 @@
 	"corbtnparecer": "#ffd700",
 	"corsecundaria": "#ffd700"
     }
+  ],
+"validachave": [
+    { 
+      	"id": 1,
+	"chave": "chave1",
+    },
+    { 
+      	"id": 1,
+	"chave": "chave1",
+    }
   ]
 }
