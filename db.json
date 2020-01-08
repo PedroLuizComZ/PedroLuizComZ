@@ -31,11 +31,11 @@
 "validachave": [
     { 
       	"id": 1,
-	"chave": "chave1",
+	"chave": "chave1"
     },
     { 
       	"id": 1,
-	"chave": "chave1",
+	"chave": "chave1"
     }
   ]
 }
