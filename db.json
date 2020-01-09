@@ -3,8 +3,8 @@
   "posts": [
     { 
       	"id": 1,
-	"nomeusuario": "Wel",
-	"nomecliente": "Wel",
+	"nomeusuario": "Wellington Cardoso",
+	"nomecliente": "Wellington Cardoso",
 	"logocliente":"logo.png",
 	"nmlogocliente":"logo.png",
 	"tituloboasvindas": "Seja Bem vindo",
@@ -16,8 +16,8 @@
     },
    { 
       	"id": 2,
-      	"nomeusuario": "Wel",
-	"nomecliente": "Wel",
+      	"nomeusuario": "Livia da Silva",
+	"nomecliente": "Livia da Silva",
 	"logocliente":"logo.png",
 	"nmlogocliente":"logo.png",
 	"tituloboasvindas": "Seja Bem vindo 2",
