@@ -1,4 +1,4 @@
-### Olá! Estou o Pedra1 👋
+### Olá! Eu sou o Pedra1 👋
 
 <div >
   <a href="https://github.com/PedroLuizComZ">
